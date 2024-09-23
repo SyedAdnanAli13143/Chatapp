@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30ab0313caba4128a29fc4c0af483d7b593a9896")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\SignalR.csproj": {}
+    "D:\\signalr\\Basic-Realtime-Chat-Application-SignalR\\Chatapp\\Backend\\SignalR\\SignalR\\SignalR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\SignalR.csproj": {
+    "D:\\signalr\\Basic-Realtime-Chat-Application-SignalR\\Chatapp\\Backend\\SignalR\\SignalR\\SignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\SignalR.csproj",
+        "projectUniqueName": "D:\\signalr\\Basic-Realtime-Chat-Application-SignalR\\Chatapp\\Backend\\SignalR\\SignalR\\SignalR.csproj",
         "projectName": "SignalR",
-        "projectPath": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\SignalR.csproj",
+        "projectPath": "D:\\signalr\\Basic-Realtime-Chat-Application-SignalR\\Chatapp\\Backend\\SignalR\\SignalR\\SignalR.csproj",
         "packagesPath": "C:\\Users\\Inseyab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\obj\\",
+        "outputPath": "D:\\signalr\\Basic-Realtime-Chat-Application-SignalR\\Chatapp\\Backend\\SignalR\\SignalR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inseyab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

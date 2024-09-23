@@ -1,4 +1,7 @@
 using Microsoft.AspNetCore.SignalR;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using SignalR.EFModels;
 using SignalR.HubConfig; // Ensure correct namespace
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,11 +17,16 @@ builder.Services.AddCors(options =>
             .AllowAnyMethod(); // Allow any HTTP method
     });
 });
+builder.Services.AddDbContext<SignalrContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection"))
+);
 
 builder.Services.AddSignalR(options =>
 {
     options.EnableDetailedErrors = true; // Enable detailed errors
 });
+
+builder.Services.AddSignalR();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\hubconfig\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\hubconfig\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\efmodels\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\efmodels\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\efmodels\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\efmodels\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\hubconfig\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\hubconfig\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\hubmodels\\personinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\hubmodels\\personinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\hubconfig\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\hubconfig\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\signalr.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\signalr.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\signalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\signalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\migrations\\20240914003420_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\migrations\\20240914003420_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SignalR\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SignalR\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-11T19:05:56.095Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "SignalrContext.cs",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\EFModels\\SignalrContext.cs",
+              "RelativeDocumentMoniker": "SignalR\\EFModels\\SignalrContext.cs",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\EFModels\\SignalrContext.cs",
+              "RelativeToolTip": "SignalR\\EFModels\\SignalrContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:29:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chat.cs",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\HubConfig\\chat.cs",
+              "RelativeDocumentMoniker": "SignalR\\HubConfig\\chat.cs",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\HubConfig\\chat.cs",
+              "RelativeToolTip": "SignalR\\HubConfig\\chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:41:49.536Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Connections.cs",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\EFModels\\Connections.cs",
+              "RelativeDocumentMoniker": "SignalR\\EFModels\\Connections.cs",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\EFModels\\Connections.cs",
+              "RelativeToolTip": "SignalR\\EFModels\\Connections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:35:05.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignalR.http",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\SignalR.http",
+              "RelativeDocumentMoniker": "SignalR\\SignalR.http",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\SignalR.http",
+              "RelativeToolTip": "SignalR\\SignalR.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-13T20:10:08.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Program.cs",
               "RelativeDocumentMoniker": "SignalR\\Program.cs",
               "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Program.cs",
               "RelativeToolTip": "SignalR\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T19:20:43.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T19:20:43.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MyHub.cs",
               "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\HubConfig\\MyHub.cs",
               "RelativeDocumentMoniker": "SignalR\\HubConfig\\MyHub.cs",
               "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\HubConfig\\MyHub.cs",
               "RelativeToolTip": "SignalR\\HubConfig\\MyHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T19:04:54.448Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240914003420_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Migrations\\20240914003420_initial.cs",
+              "RelativeDocumentMoniker": "SignalR\\Migrations\\20240914003420_initial.cs",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Migrations\\20240914003420_initial.cs",
+              "RelativeToolTip": "SignalR\\Migrations\\20240914003420_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:34:21.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalR\\appsettings.json",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\appsettings.json",
+              "RelativeToolTip": "SignalR\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T23:30:55.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignalR.csproj",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\SignalR.csproj",
+              "RelativeDocumentMoniker": "SignalR\\SignalR.csproj",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\SignalR.csproj",
+              "RelativeToolTip": "SignalR\\SignalR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T21:44:53.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\HubModels\\PersonInfo.cs",
+              "RelativeDocumentMoniker": "SignalR\\HubModels\\PersonInfo.cs",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\HubModels\\PersonInfo.cs",
+              "RelativeToolTip": "SignalR\\HubModels\\PersonInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:45:36.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignalR\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignalR\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T19:05:56.095Z"
             }
           ]
         },
