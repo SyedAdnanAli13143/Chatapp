@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\hubconfig\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\hubconfig\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|c:\\users\\inseyab\\source\\repos\\signalr\\signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99783960-4602-430B-8876-799D401B0A42}|SignalR\\SignalR.csproj|solutionrelative:signalr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignalR\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignalR\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T19:05:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR\\Program.cs",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\Program.cs",
+              "RelativeToolTip": "SignalR\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:20:43.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyHub.cs",
+              "DocumentMoniker": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\HubConfig\\MyHub.cs",
+              "RelativeDocumentMoniker": "SignalR\\HubConfig\\MyHub.cs",
+              "ToolTip": "C:\\Users\\Inseyab\\source\\repos\\SignalR\\SignalR\\HubConfig\\MyHub.cs",
+              "RelativeToolTip": "SignalR\\HubConfig\\MyHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:04:54.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
